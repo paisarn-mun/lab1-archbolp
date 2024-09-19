@@ -1,0 +1,9 @@
+1 .HTTP, TCP, DNS,TLSv1.2
+2.  2.459141 seconds          Time of day: 12:52:02.951821 for get
+    2.867951 seconds          Time of day: 12:52:03.360631 for ok
+    0.40881 seconds difference between when get message was sent and ok message was recieved
+
+3. Internet address of gaia.cs.umass.edu is 128.119.245.12
+   Internet address of my computer is 192.168.73.99
+4. Safari
+5. Destination port: 80
